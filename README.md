@@ -1,18 +1,17 @@
-# VPN IP Brazil — Dr VPN
+# VPN IP Brazil — Fast, Secure VPN for Brazil
 
-**VPN IP Brazil** is a fast, secure and free VPN for Android. Get a **Brazil IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Brazil** is a free, open-source, ad-free VPN app for Android, built for users in Brazil. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Brazil (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_br_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-brazil/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Brazil IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Brazil, Brazil VPN, VPN IP Brazil, Brazil IP address, free VPN Brazil, buy VPN Brazil, fast VPN Brazil, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Brazil, free VPN Brazil, fast VPN, VPN IP Brazil, Android VPN, unblock websites Brazil.</sub>
